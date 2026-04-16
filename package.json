@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbordon1/AW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbordon1/AW/issues"
+  },
+  "homepage": "https://github.com/mbordon1/AW#readme"
 }
